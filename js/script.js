@@ -1,2 +1,10 @@
-console.log("hello world!");
-console.log(14 * 12);
+const sayHello = () => {
+  console.log(24 * 678);
+  console.log("hello");
+};
+
+sayHello();
+
+function sayBob() {
+  console.log("bob");
+}
