@@ -1,1 +1,1 @@
-console.log("this is from second script file");
+console.log("This is script 2");
